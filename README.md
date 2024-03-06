@@ -28,7 +28,7 @@ This is a MERN (MongoDB, Express.js, React.js, Node.js) stack chat application b
 
 1. Clone the repository:
 
-git clone https://github.com/yourusername/mern-chat-app.git
+git clone https://github.com/Ada890/mern-chat-app.git
 
 css
 Copy code
